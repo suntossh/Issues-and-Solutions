@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/4262186/missing-maven-dependencies-in-eclipse-project
